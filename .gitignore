@@ -1,6 +1,9 @@
 *
 !.gitignore
-!lib/
-!mod/
-!local/
 !README.md
+!lib/
+!lib/**
+!mod/
+!mod/**
+!local/
+!local/**
