@@ -7,3 +7,7 @@
 !mod/**
 !local/
 !local/**
+!backup/
+!backup/**
+!lang/
+!lang/**
